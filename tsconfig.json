@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": false
+  },
+  "include": [
+    "src/**/*",
+    "gulpfile.js",
+    "index.js", 
+    "example/**/*",
+    "webpack.config.js"
+  ]
+}
