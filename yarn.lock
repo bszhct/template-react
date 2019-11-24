@@ -68,15 +68,16 @@
     eslint-plugin-react "7.16.0"
     typescript "3.6.4"
 
-"@bszhct/template-webpack@0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@bszhct/template-webpack/-/template-webpack-0.0.3.tgz#5866c3ced26946414dd51e5bf3f6fa5d43037bba"
-  integrity sha512-isd64mcsXkB5jMxvpYMf7vJDa1/u07s8ndTB11JQvcAMBODWeXcMjN05qaAoXVUEaYkbwJwrMinkAM0QPofxjg==
+"@bszhct/template-webpack@0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@bszhct/template-webpack/-/template-webpack-0.0.7.tgz#fa9197aa59b207969334c4ac062395de8210782a"
+  integrity sha512-8w3RoBYld4Gh2/dleBG2KU8bZg4SBi6xfqPfpiXO87auQD5xBxmxt4z02FIpLzwh/jXd7Dh2Yh4IVaOKBta5bw==
   dependencies:
-    "@bszhct/template-eslint" "0.0.1"
+    "@bszhct/template-eslint" "0.0.2"
     autoprefixer "9.7.1"
     awesome-typescript-loader "5.2.1"
     clean-webpack-plugin "3.0.0"
+    commander "4.0.1"
     css-loader "3.2.0"
     file-loader "4.2.0"
     html-webpack-plugin "3.2.0"
@@ -1339,6 +1340,11 @@ commander@2.17.x:
   version "2.17.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
   integrity sha512-wPMUt6FnH2yzG95SA6mzjQOEKUU3aLaDEmzs1ti+1E9h+CsrZghRlqEM/EJ4KscsQVG8uNN4uVreUeT8+drlgg==
+
+commander@4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-4.0.1.tgz#b67622721785993182e807f4883633e6401ba53c"
+  integrity sha512-IPF4ouhCP+qdlcmCedhxX4xiGBPyigb8v5NeUp+0LyhwLgxMqyp3S0vl7TAPfS/hiP7FC3caI/PB9lTmP8r1NA==
 
 commander@^2.11.0, commander@^2.18.0, commander@^2.20.0, commander@~2.20.3:
   version "2.20.3"
