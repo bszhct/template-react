@@ -37,7 +37,7 @@
     "@bszhct/template-webpack": "0.0.5",
     "@types/react": "16.9.11",
     "@types/react-dom": "16.9.3",
-    "mobx-react-devtools": "4.2.15"
+    "mobx-react-devtools": "6.1.1"
   },
   "browserslist": [
     "last 5 Chrome versions",
