@@ -68,12 +68,12 @@
     eslint-plugin-react "7.16.0"
     typescript "3.6.4"
 
-"@bszhct/template-webpack@0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@bszhct/template-webpack/-/template-webpack-0.0.3.tgz#5866c3ced26946414dd51e5bf3f6fa5d43037bba"
-  integrity sha512-isd64mcsXkB5jMxvpYMf7vJDa1/u07s8ndTB11JQvcAMBODWeXcMjN05qaAoXVUEaYkbwJwrMinkAM0QPofxjg==
+"@bszhct/template-webpack@0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@bszhct/template-webpack/-/template-webpack-0.0.5.tgz#e77e930b33c12d24c4017b174effed764b86b37a"
+  integrity sha512-2LikmGFC1H5JZLAI60CV7ZeBOsbs8Eul2NkhXjjrnOTfQTwGTh2Ahn9GuNki0e7OexC+6TQziKAEsqF6Ho/78Q==
   dependencies:
-    "@bszhct/template-eslint" "0.0.1"
+    "@bszhct/template-eslint" "0.0.2"
     autoprefixer "9.7.1"
     awesome-typescript-loader "5.2.1"
     clean-webpack-plugin "3.0.0"
@@ -4619,10 +4619,10 @@ mkdirp@0.5.1, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.1, mkdirp@~0.5.x:
   dependencies:
     minimist "0.0.8"
 
-mobx-react-devtools@4.2.15:
-  version "4.2.15"
-  resolved "https://registry.yarnpkg.com/mobx-react-devtools/-/mobx-react-devtools-4.2.15.tgz#881c038fb83db4dffd1e72bbaf5374d26b2fdebb"
-  integrity sha1-iBwDj7g9tN/9HnK7r1N00msv3rs=
+mobx-react-devtools@6.1.1:
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/mobx-react-devtools/-/mobx-react-devtools-6.1.1.tgz#a462b944085cf11ff96fc937d12bf31dab4c8984"
+  integrity sha512-nc5IXLdEUFLn3wZal65KF3/JFEFd+mbH4KTz/IG5BOPyw7jo8z29w/8qm7+wiCyqVfUIgJ1gL4+HVKmcXIOgqA==
 
 mobx-react@5.4.4:
   version "5.4.4"
