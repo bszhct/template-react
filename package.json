@@ -1,5 +1,5 @@
 {
-  "name": "@bszhct/component-react",
+  "name": "@bszhct/template-react",
   "version": "0.0.1",
   "description": "通用的 React 脚手架",
   "scripts": {
