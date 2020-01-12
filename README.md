@@ -1,4 +1,4 @@
-## component-react
+## template-react
 通用的 React 脚手架。
 
 ## 反馈

@@ -76,10 +76,24 @@
     eslint-plugin-react "7.16.0"
     typescript "3.6.4"
 
+<<<<<<< HEAD
 "@bszhct/template-webpack@0.0.8":
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/@bszhct/template-webpack/-/template-webpack-0.0.8.tgz#bedf393e92a70216e5eda40dc44899da718ea2c9"
   integrity sha512-BG3PpGd+/d0F7ZMDUV4LnlTIU5JBqa4rqTsSwI/07xNW2EHpmi+MGvWPkLbmhOTnvCD3vX6ZXNCCzAb6Z3EIiA==
+=======
+<<<<<<< HEAD
+"@bszhct/template-webpack@0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@bszhct/template-webpack/-/template-webpack-0.0.5.tgz#e77e930b33c12d24c4017b174effed764b86b37a"
+  integrity sha512-2LikmGFC1H5JZLAI60CV7ZeBOsbs8Eul2NkhXjjrnOTfQTwGTh2Ahn9GuNki0e7OexC+6TQziKAEsqF6Ho/78Q==
+=======
+"@bszhct/template-webpack@0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@bszhct/template-webpack/-/template-webpack-0.0.7.tgz#fa9197aa59b207969334c4ac062395de8210782a"
+  integrity sha512-8w3RoBYld4Gh2/dleBG2KU8bZg4SBi6xfqPfpiXO87auQD5xBxmxt4z02FIpLzwh/jXd7Dh2Yh4IVaOKBta5bw==
+>>>>>>> 990f7564ab0dc99e6dcfe470d820efabb881fa4a
+>>>>>>> c362f8c87ed788ef5edea546074cb4adaf8148dd
   dependencies:
     "@bszhct/template-eslint" "0.0.2"
     autoprefixer "9.7.1"
@@ -4590,10 +4604,17 @@ mkdirp@0.5.1, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.1, mkdirp@~0.5.x:
   dependencies:
     minimist "0.0.8"
 
+<<<<<<< HEAD
 mobx-react-devtools@4.2.15:
   version "4.2.15"
   resolved "http://r.cnpmjs.org/mobx-react-devtools/download/mobx-react-devtools-4.2.15.tgz#881c038fb83db4dffd1e72bbaf5374d26b2fdebb"
   integrity sha1-iBwDj7g9tN/9HnK7r1N00msv3rs=
+=======
+mobx-react-devtools@6.1.1:
+  version "6.1.1"
+  resolved "https://registry.yarnpkg.com/mobx-react-devtools/-/mobx-react-devtools-6.1.1.tgz#a462b944085cf11ff96fc937d12bf31dab4c8984"
+  integrity sha512-nc5IXLdEUFLn3wZal65KF3/JFEFd+mbH4KTz/IG5BOPyw7jo8z29w/8qm7+wiCyqVfUIgJ1gL4+HVKmcXIOgqA==
+>>>>>>> c362f8c87ed788ef5edea546074cb4adaf8148dd
 
 mobx-react@5.4.4:
   version "5.4.4"
